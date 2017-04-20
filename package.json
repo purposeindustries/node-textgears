@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "description": "Textgears API for node",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "request.js"
+  ],
   "scripts": {
     "test": "mocha"
   },
