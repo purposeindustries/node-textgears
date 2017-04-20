@@ -1,6 +1,6 @@
 {
   "name": "textgears",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Textgears API for node",
   "main": "index.js",
   "files": [
